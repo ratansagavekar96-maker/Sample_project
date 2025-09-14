@@ -2,4 +2,4 @@
 .classpath
 .gitignore
 .project
-.settings/org.eclipse.jdt.core.prefs/
+/
